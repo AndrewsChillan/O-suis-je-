@@ -1,0 +1,14 @@
+* {
+  border-radius: 30px;
+  padding: 8px;
+  text-align: center;
+}
+
+body {
+  min-height: 100vh;
+}
+
+img {
+  margin: 0 auto;
+  height: 100px;
+}
